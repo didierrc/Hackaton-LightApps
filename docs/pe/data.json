@@ -1,7 +1,7 @@
 {
     "meta": {
         "app_id": "org.example.same.identifier.manifest.package",
-        "app_title": "City Street Heritage",
+        "app_title": "Cuzco at its finest!",
         "version": 1,
         "updated": "2022-09-26",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
@@ -33,27 +33,102 @@
                         "https://www.chocomuseo.com/wp-content/uploads/2016/08/20160806_113034.jpg",
                         "https://www.chocomuseo.com/wp-content/uploads/2017/09/4-min-5.jpeg"
                     ],
-                    "description": "This museum is dedicated to the art of chocolate-making. Visitors can take workshops to learn about the process from cacao bean to chocolate bar and even make their own chocolates.",
-                    "more": "More description, if you want",
+                    "description": "This museum is dedicated to the art of chocolate-making.",
+                    "more": "Visitors can take workshops to learn about the process from cacao bean to chocolate bar and even make their own chocolates.",
                     "urls": [
                         "https://www.chocomuseo.com/museo-de-chocolate-una-alternativa-para-visitar-en-cusco/"
                     ]
                 },
                 {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "sanpedro-cuzco",
+                    "lat": "-13.516337794196343",
+                    "lon": "-71.9807619436927",
+                    "type": "church",
+                    "name": "Church of San Pedro",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://www.cuscoperu.com/wp-content/uploads/2022/08/san-pedro-cusco-peru.jpg",
+                        "https://www.culturacusco.gob.pe/wp-content/uploads/2019/12/2.-Templo-de-Quiquijana-interior.jpg"
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
+                    "description": "This small church, located in the San Pedro neighborhood, is often overlooked by tourists. It features beautiful colonial architecture and offers a peaceful respite from the crowds.",
+                    "more": " ",
                     "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "https://www.cuscoperu.com/es/viajes/cusco/iglesias-y-conventos/san-pedro/"
+                    ]
+                },
+                {
+                    "id": "precolumbian-cuzco",
+                    "lat": "-13.514845740268248",
+                    "lon": "-71.97752453154544",
+                    "type": "museum",
+                    "name": "Pre-Columbian Art Museum",
+                    "images": [
+                        "https://fundacionbbva.pe/wp-content/uploads/2018/07/Casona-Cabrera-MAP-cabecera-1600x600.jpg",
+                        "https://fundacionbbva.pe/wp-content/uploads/2020/02/MADERA1132-1600x600.jpg"
+                    ],
+                    "description": "While not as well-known as some other museums in Cuzco, it houses an impressive collection of pre-Columbian art, including pottery, textiles, and sculptures.",
+                    "more": " ",
+                    "urls": [
+                        "https://mapcusco.pe/"
+                    ]
+                },
+                {
+                    "id": "stone-cuzco",
+                    "lat": "-13.515749394284136",
+                    "lon": "-71.97638189279377",
+                    "type": "art",
+                    "name": "Stone of the twelth angles",
+                    "images": [
+                        "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cusco_Piedra_de_los_doce_angulos.jpg"
+                    ],
+                    "description": "The not so famous but incredibly stone of 12!!! angles. Located at the citadel of Machu Picchu",
+                    "more": "Can you believe that Incas made that with its own bare hands",
+                    "urls": [
+                        "https://es.wikipedia.org/wiki/Piedra_de_los_doce_%C3%A1ngulos"
+                    ]
+                },
+                {
+                    "id": "planetarium-cuzco",
+                    "lat": "-13.506682333731682",
+                    "lon": "-71.98592014676473",
+                    "type": "museum",
+                    "name": "Planetarium",
+                    "images": [
+                        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/9a/6a/b9.jpg"
+                    ],
+                    "description": "Located a bit outside the city, this planetarium offers an interesting perspective on Inca astronomy and their understanding of the cosmos",
+                    "more": " ",
+                    "urls": [
+                        "https://www.planetariumcusco.com/en/home/"
+                    ]
+                },
+                {
+                    "id": "machu-cuzco",
+                    "lat": "-13.226090569446052",
+                    "lon": "-72.49740733512736",
+                    "type": "mountain",
+                    "name": "Machu Picchu",
+                    "images": [
+                        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machu_Picchu%2C_Peru.jpg/1200px-Machu_Picchu%2C_Peru.jpg"
+                    ],
+                    "description": "While not in Cuzco itself, it's worth mentioning that Cuzco is often the starting point for the journey to Machu Picchu, one of the most iconic archaeological sites in the world.",
+                    "more": " ",
+                    "urls": [
+                        "https://en.wikipedia.org/wiki/Machu_Picchu"
+                    ]
+                },
+                {
+                    "id": "vinicunca-cuzco",
+                    "lat": "-13.511039125629427",
+                    "lon": "-71.97881342522007",
+                    "type": "mountain",
+                    "name": "Vinicunca",
+                    "images": [
+                        "https://www.peru.travel/Contenido/General/Imagen/en/326/1.1/Vinicunca.jpg"
+                    ],
+                    "description": "Vinicunca, also called Montaña de Siete Colores (Mountain of Seven Colors), is located in the Andes in the Cusco region of Peru, and until 2013 when the ice that had always covered the mountain melted away, the colors beneath were completely unknown.",
+                    "more": "The colors look more natural in person, but they're not dull either",
+                    "urls": [
+                        "https://en.wikipedia.org/wiki/Vinicunca"
                     ]
                 }
             ]
